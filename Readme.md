@@ -1,7 +1,3 @@
-<table width="100%" style="border: 1px solid #30363d; border-collapse: separate; border-radius: 8px;">
-<tr>
-<td style="padding: 25px; border: none;">
-
 <h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">

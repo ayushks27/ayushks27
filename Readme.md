@@ -1,5 +1,3 @@
-<h1 align="center">📊 GitHub Stats</h1>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ayushks27&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
 </p>

@@ -85,19 +85,17 @@
 <h1 align="center">🌐 Socials</h1>
 
 <p align="center">
-
-<a href="https://instagram.com/ayush_ks27">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/purnendu-raghav">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:purnenduraghavsrivastava@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://instagram.com/ayush_ks27">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/purnendu-raghav">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:purnenduraghavsrivastava@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 </td>

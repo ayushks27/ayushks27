@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushks27&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushks27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 

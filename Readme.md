@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ayushks27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushks27&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">

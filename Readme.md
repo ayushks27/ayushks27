@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Hi there, I'm Purnendu 👋
@@ -30,4 +29,4 @@
 <img src="https://streak-stats.demolab.com?user=PurnenduRG27&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
-```
+
